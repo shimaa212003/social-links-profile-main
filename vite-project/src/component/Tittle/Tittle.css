@@ -1,0 +1,31 @@
+  #title{
+    margin: 0;
+    text-align: center;
+
+  }
+  
+  #imge{
+    border-radius: 40rem;
+    width: 80px;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+   
+
+}
+#Jes{
+    
+    font-size: 20px;
+    margin: 20px 0 10px 0;
+}
+
+#Jess{
+    color:hsl(75, 94%, 57%) ;
+    font-size: 12px;
+    margin-bottom: 2vh;
+}
+
+#front{
+    font-size: 14px;
+    margin: 20px 0;
+}
+
